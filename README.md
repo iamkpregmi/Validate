@@ -8,11 +8,24 @@ Auto validation library for the HTML form validation.
 I heartily welcome everyone to contribute to this project. Let's make validation easy!
 
 ## Why Validate library
-  * Easy to implement
+  * Easy to implementation
 
   * Customization
 
-  * Fast to implement
+  * Fast to implementation
+
+## Key Features
+
+•	Automatic Integration: No need to write JavaScript for form validation; Validation.js handles it automatically once included.
+
+
+•	Customizable: Despite its simplicity, Validation.js offers customization options to fit various validation needs.
+
+
+•	Error Messaging: Provides intuitive error messages that guide users towards correct input formats.
+
+
+•	Compatibility: Works seamlessly with all modern browsers and supports standard HTML form elements.
 
 
 ## Example Screenshots
